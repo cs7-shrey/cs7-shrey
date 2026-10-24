@@ -32,7 +32,7 @@ interests/
 
 - The best way to understand infrastructure is to rebuild a smaller version.
 - An “AI agent” is often just a while loop with better marketing.
-- Failure handling is part of the product, not cleanup work.
+- Code is a low bandwidth representation between humans and agents.
 - “Works on my machine” is an invitation to learn more about machines.
 
 *These beliefs are under active revision.*
