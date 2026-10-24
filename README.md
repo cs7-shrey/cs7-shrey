@@ -27,15 +27,6 @@ interests/
 
 [**Hermes Voice Agent**](https://github.com/cs7-shrey/hermes-voice-agent) · talk to a remote coding agent and ship websites by voice
 
-## Work in the wild
-
-2026 · **myKaarma** · autonomous SRE agent for production incident investigation
-
-2026 · **Raeth AI** · multi-agent orchestration and sandboxed trading systems
-
-2026 · **Avaliar AI** · tracing, evaluations and observability for AI applications
-
-2025 · [**Google Summer of Code**](https://summerofcode.withgoogle.com/programs/2025/projects/33o1XAWV) · cloud storage infrastructure for neuroscience research labs
 
 ## Things I currently believe
 
