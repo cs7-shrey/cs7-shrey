@@ -13,7 +13,7 @@ interests/
 
 ## Projects
 
-[**nptel ease**](https://chromewebstore.google.com/detail/nptel-ease/mdfjnmdeicelknllknchajpabideacca?authuser=1&hl=en-GB&pli=1) · automate nptel assignment solving and submissions (75+ users)
+[**nptel ease**](https://chromewebstore.google.com/detail/nptel-ease/mdfjnmdeicelknllknchajpabideacca?authuser=1&hl=en-GB&pli=1) · automate nptel assignment solving and submissions (100+ users)
 
 [**Prompt Lens**](https://github.com/cs7-shrey/prompt-lens) · observability for how brands appear across AI search
 
